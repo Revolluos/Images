@@ -1,0 +1,206 @@
+{
+  "styleOptionsByAudience": {
+    "child": [
+      {
+        "value": "Cartoon",
+        "label": "Cartoon",
+        "description": "A vibrant and often humorous style, characterized by exaggerated features, bold outlines, and bright colors, reminiscent of animated shows and comic strips."
+      },
+      {
+        "value": "Black and White Line Art",
+        "label": "Colouring Book",
+        "description": "Simple, clean outlines without shading or color, designed to be filled in. Focuses on clear forms and shapes."
+      },
+      {
+        "value": "Claymation",
+        "label": "Claymation",
+        "description": "An art style that mimics the look of stop-motion animation using clay figures. Features distinct textures and a handcrafted, tactile feel."
+      },
+      {
+        "value": "Comic Book",
+        "label": "Comic Book",
+        "description": "Dynamic and expressive, with strong lines, vibrant palettes, and often dramatic perspectives, capturing the narrative energy of graphic novels."
+      },
+      {
+        "value": "Doodle",
+        "label": "Doodle",
+        "description": "Spontaneous, whimsical, and often playful drawings, typically simple and unrefined, as if sketched casually on paper."
+      },
+      {
+        "value": "Fantasy Art",
+        "label": "Fantasy Art",
+        "description": "Imaginative and enchanting, depicting mythical creatures, magical realms, heroic figures, and epic adventures, often with a sense of wonder and escapism."
+      },
+      {
+        "value": "Kawaii",
+        "label": "Kawaii",
+        "description": "A Japanese aesthetic emphasizing cuteness, characterized by rounded shapes, large expressive eyes, soft colors, and a generally adorable, charming appeal."
+      },
+      {
+        "value": "Pixel Art",
+        "label": "Pixel Art",
+        "description": "Created using individual square pixels, resulting in a distinctively blocky, retro appearance, reminiscent of early video games and digital graphics."
+      },
+      {
+        "value": "Storybook",
+        "label": "Storybook",
+        "description": "Warm, inviting, and often nostalgic, this style evokes classic children's book illustrations, with gentle textures, soft lighting, and a narrative charm."
+      },
+      {
+        "value": "Watercolor",
+        "label": "Watercolor",
+        "description": "Features translucent washes of color, soft edges, and a fluid, ethereal quality, mimicking traditional watercolor paintings with visible brushstrokes and blends."
+      }
+    ],
+    "adult": [
+      {
+        "value": "Abstract",
+        "label": "Abstract",
+        "description": "Non-representational art that focuses on shapes, colors, forms, and gestural marks rather than depicting objective reality, inviting subjective interpretation."
+      },
+      {
+        "value": "Anime",
+        "label": "Anime",
+        "description": "Inspired by Japanese animation, characterized by distinctive large eyes, expressive facial features, dynamic poses, and often vibrant, detailed backgrounds."
+      },
+      {
+        "value": "Black and White Line Art",
+        "label": "Black and White Line Art",
+        "description": "Emphasizes contours, forms, and contrasts using only black and white. Can range from intricate and detailed to bold and minimalist."
+      },
+      {
+        "value": "Cyberpunk",
+        "label": "Cyberpunk",
+        "description": "A futuristic dystopian aesthetic, often featuring towering neon-lit cityscapes, advanced technology, gritty urban environments, and a blend of high-tech and low-life elements."
+      },
+      {
+        "value": "Fantasy Art",
+        "label": "Fantasy Art",
+        "description": "Imaginative and enchanting, depicting mythical creatures, magical realms, heroic figures, and epic adventures, often with a sense of wonder and escapism."
+      },
+      {
+        "value": "Gothic",
+        "label": "Gothic",
+        "description": "Dark, mysterious, and often melancholic, featuring elements like ancient architecture, dramatic lighting, supernatural themes, and a sense of foreboding or romance."
+      },
+      {
+        "value": "Impressionistic",
+        "label": "Impressionistic",
+        "description": "Characterized by visible, loose brushstrokes, open composition, and an emphasis on capturing the fleeting effects of light and atmosphere rather than precise detail."
+      },
+      {
+        "value": "Minimalist",
+        "label": "Minimalist",
+        "description": "A clean and uncluttered design approach, focusing on essential elements, simplicity, and often using limited color palettes, clean lines, and negative space for impact."
+      },
+      {
+        "value": "Oil Painting",
+        "label": "Oil Painting",
+        "description": "Rich textures, deep and luminous colors, and layered effects, mimicking traditional oil paintings with visible brushwork and a sense of depth and realism."
+      },
+      {
+        "value": "Photorealistic",
+        "label": "Photorealistic",
+        "description": "Highly detailed and precise, aiming to replicate the appearance of a photograph with extreme accuracy in rendering light, shadow, texture, and minute details."
+      },
+      {
+        "value": "Sci-Fi Art",
+        "label": "Sci-Fi Art",
+        "description": "Explores futuristic concepts, space exploration, advanced technology, and alien worlds, often with sleek designs, cosmic vistas, and themes of innovation or cosmic mystery."
+      },
+      {
+        "value": "Steampunk",
+        "label": "Steampunk",
+        "description": "A retro-futuristic style inspired by 19th-century industrial steam-powered machinery, featuring intricate gears, brass, clockwork, and Victorian-era aesthetics."
+      },
+      {
+        "value": "Surreal",
+        "label": "Surreal",
+        "description": "Dreamlike and often bizarre, combining unrelated elements in unexpected or illogical ways to create a sense of the subconscious, the fantastical, or the unsettling."
+      },
+      {
+        "value": "Watercolor",
+        "label": "Watercolor",
+        "description": "Features translucent washes of color, soft edges, and a fluid, ethereal quality, mimicking traditional watercolor paintings with visible brushstrokes and blends."
+      }
+    ]
+  },
+  "negativePromptOptions": [
+    {
+      "value": "bad anatomy",
+      "label": "Bad anatomy"
+    },
+    {
+      "value": "bad eyes",
+      "label": "Bad eyes"
+    },
+    {
+      "value": "blurry",
+      "label": "Blurry"
+    },
+    {
+      "value": "cropped",
+      "label": "Cropped"
+    },
+    {
+      "value": "deformed",
+      "label": "Deformed"
+    },
+    {
+      "value": "disfigured",
+      "label": "Disfigured"
+    },
+    {
+      "value": "duplicate",
+      "label": "Duplicate"
+    },
+    {
+      "value": "extra limbs",
+      "label": "Extra limbs"
+    },
+    {
+      "value": "long neck",
+      "label": "Long neck"
+    },
+    {
+      "value": "low quality",
+      "label": "Low quality"
+    },
+    {
+      "value": "missing limbs",
+      "label": "Missing limbs"
+    },
+    {
+      "value": "mutated",
+      "label": "Mutated"
+    },
+    {
+      "value": "out of frame",
+      "label": "Out of frame"
+    },
+    {
+      "value": "poorly drawn face",
+      "label": "Poorly drawn face"
+    },
+    {
+      "value": "poorly drawn hands",
+      "label": "Poorly drawn hands"
+    },
+    {
+      "value": "signature",
+      "label": "Signature"
+    },
+    {
+      "value": "text",
+      "label": "Text"
+    },
+    {
+      "value": "ugly",
+      "label": "Ugly"
+    },
+    {
+      "value": "watermark",
+      "label": "Watermark"
+    }
+  ]
+}
